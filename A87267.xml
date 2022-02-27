@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An examination of a printed pamphlet, entituled, A narration of the siege of the town of Leicester (the last of May 1645.) by the Kings forces. With a more perfect and exact relation, of the taking the said town and garison. Also, the true copie of a lettersent from Leicester to the Lord Grey.</title>
+            <author>Innes, James, Major.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87267</idno>
+            <idno type="STC">Wing I193</idno>
+            <idno type="STC">Thomason E261_3</idno>
+            <idno type="STC">ESTC R212462</idno>
+            <idno type="EEBO-CITATION">99871076</idno>
+            <idno type="PROQUEST">99871076</idno>
+            <idno type="VID">123474</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87267)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123474)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 44:E261[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An examination of a printed pamphlet, entituled, A narration of the siege of the town of Leicester (the last of May 1645.) by the Kings forces. With a more perfect and exact relation, of the taking the said town and garison. Also, the true copie of a lettersent from Leicester to the Lord Grey.</title>
+                  <author>Innes, James, Major.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas VValkley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1465 [sic, i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page 6: James Innes.</note>
+                  <note>Annotation on Thomason copy: "July 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Narration of the siege and taking of the town of Leicester the last of May, 1645. --  Early works to 1800.</term>
+               <term>Leicester (England) --  History --  Siege, 1645 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123474:1"/>
+            <pb facs="tcp:123474:1" rendition="simple:additions"/>
+            <p>AN EXAMINATION OF A PRINTED PAMPHLET; ENTITULED, <hi>A Narration of the Siege of the Town of</hi> Lei<g ref="char:EOLhyphen"/>ceſter (<hi>the laſt of May</hi> 1645.) <hi>By the Kings Forces.</hi>
+            </p>
+            <p>WITH A more perfect and exact Relation, of the Taking the ſaid Town and Gariſon.</p>
+            <p>ALSO, The true Copie of a Letter ſent from <hi>Leiceſter</hi> to the Lord <hi>Grey.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for THOMAS VVALKLEY. 1465.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:123474:2"/>
+            <pb n="1" facs="tcp:123474:2"/>
+            <head>
+               <hi>An Examination of a printed Pamphlet, Intituled;</hi> A Narration of the Siege of the Town of <hi>Lei<g ref="char:EOLhyphen"/>ceſter,</hi> by the Kings Forces.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hough the late taking of Leiceſter by the Ene<g ref="char:EOLhyphen"/>my, did too ſadly prove, that the complaints heretofore made by ſome Honourable perſona<g ref="char:EOLhyphen"/>ges againſt that Committee, were no ground<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſe accuſations, or ſplenitive aſperſions caſt upon them, but the juſt feares of provident men: <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et becauſe that Committee have ſince, in a Printed Narrative, gone about to juſtifie their whole proceedings; it may concern the other, not ſo much in vindication of their own honour, as for redeeming the truth, to examine the particulars of that Narration. Thoſe Gentlemen of quality, who at the beginning of this ſad Warre, had, with the hazard of their lives and fortunes, put the Town of Leiceſter into a poſture of defence, could not chuſe afterwards (out of zeale to the publike) but continue their care for the ſuppreſſion of it; though the full managing of that Affaire were ſince taken out of their hands, and committed to o<g ref="char:EOLhyphen"/>thers of Meaner ranke, and ſuch men, who had not at firſt joyned in the hazard with them, nor appeared, untill danger did ſeeme to bee blowne over. Nor could they better expreſſe that publike care which they had to Preſerve the Countrey, then by a ſerious obſerving, and timely com<g ref="char:EOLhyphen"/>plaining of ſuch faults or Errours as that Committee were guilty of. Some of thoſe faults, how well ſoever that Committee have endea<g ref="char:EOLhyphen"/>voured to blanch them over, Will plainely appear in ſearching out the truth of their owne Narration. In which it is not our meaning to pick needleſſe quarrells againſt all that they ſay: But to inſiſt onely upon ſuch things, as without too much injurie to truth, cannot be let paſſe. That diſcourſe concerning Maſter <hi>Purif<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> which they begin with, it is let paſſe, as a thing improper to give anſwere to; ſeeing he gave in his Teſtimonie to that Committee, which the Houſe appointed for examining the par<g ref="char:EOLhyphen"/>ticulars concerning Leiceſter. But to an higher concerne, which pre<g ref="char:EOLhyphen"/>ſently followes in their Narration, as namely where the Committee ſay, <hi>that the workes were amended where they were any waies defective, and that they were well made up in all places;</hi> To this is anſwered, that they had
+<pb n="2" facs="tcp:123474:3"/>left all places of advantage to the Enemie undemoliſhed, as namely, Maſter <hi>Chapmans</hi> Houſes neer Belgrave Gate, <hi>Greenes</hi> houſes neere Hum<g ref="char:EOLhyphen"/>berſtone Gate; Widdow <hi>Swannes</hi> houſe, and the Grange neere unto Southgate; diverſe Houſes at the Weſt bridge, and many neere to Saint Sundaies Bridge. From which place Major <hi>Innes</hi> with a Party of his owne men, allighted from their Horſes, with Carabines in their hands, Sallied out at Sundaies bridge, beate off the Kings Forces, and fired thoſe houſes (the Foote of the Towne refuſing to go upon the Service) All which places left thus, undemoliſhed, were within ſixeſcore Paces of the Workes, and moſt of them within Piſtoll ſhot. It will be further proved that the Committee were unprovided of divers materialls, neceſſary for defence of the Garriſon, as Spades Shovells, and Mattocks to make up the breaches, the Workes altogether naked, there being neither Cannon nor Musket Baſkets to Shelter the Souldiers. Beſides all this, that place in the Newarke, where the breach was made, the Committee would never ſuffer to be Fortifyed, becauſe Maſter <hi>Wadland</hi> Clarke to the Committee, and a powerfull man with them, had a parcell of ground lying there, which he was unwilling ſhould be cut up. In the next place, wheras they ſay, <hi>That the line was neere three miles about, and made by the Lord</hi> Gray; It is anſwered, that the Lord <hi>Gray</hi> could never prevaile with the Committee to pull downe thoſe Houſes before mentioned, much leſſe to contract the Line to a more narrow circumference, and this unwillingneſſe of theirs is moſt apparent, in regard that they ſuffered the ſaid Houſes to ſtand, and the Kings forces to take poſſeſſion of them, though they had time<g ref="char:EOLhyphen"/>ly intelligence of the Kings approach. And whereas they ſay, <hi>That the Kings comming to Aſhby was ſo ſuddaine, that they had not time to call away their men from Colearton, and bring off their Cannon;</hi> To that wee anſwer; Sir <hi>Iohn Gell</hi> by Letters advertiſed the Committee, three dayes before the King came to Aſhby, that in all probabilitie the Kings deſigne was for Leiceſter. So that they had time enough to call in their out Garriſons, be<g ref="char:EOLhyphen"/>ing (as they ſay) 350. Horſe and Foot at Colearton, and 160 Horſe and Foote at Kirby, in all 510. beſides thoſe at Bagworth. Wheareas they ſay, <hi>that when the Towne was Summoned, onely Sir</hi> Robert Pye, <hi>and Major Innes ſee<g ref="char:EOLhyphen"/>med to queſtion whether their number were ſufficient to make reſiſta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce againſt ſuch an Armie;</hi> They anſwer, that being Strangers they enquired what their Strength was; the Committee having formerly related to them, that they had 1500. fighting men in the Towne (wherewith no doubt but the Towne might eaſily have been defended) But upon view at the ſeverall Poſts they found not above 450. Souldiers, a very inſufficient numb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r to Manne the Circumference of ſo vaſt a Line. Beſides Sir <hi>Robert Pye</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Committee to take Order that there might be Teames and D<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ght Horſes for the removing of the Cannon from place to place, as
+<pb n="3" facs="tcp:123474:3"/>occaſion ſhould require. But not an Horſe nor Teame was to bee ſeen in readineſſe for that ſervice. And whereas the Committee promiſed Sir <hi>R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bert Pye,</hi> that there ſhould bee 300. Men upon the maine Guard con<g ref="char:EOLhyphen"/>ſtantly, there were not ſeene above twenty men; Notwithſtanding all theſe things, Sir <hi>Robert Pye,</hi> and Major <hi>Innes,</hi> declared that they would c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntribute th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir beſt endeavours to the maintenance of the Town, which they fu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly performed; and when ſeverall other Officers did quit their Poſt, Major <hi>Innes</hi> maintained his; and it is evidently knowne, that the Enemie never entred at his Poſt.</p>
+            <p>Whereas the Committee ſay, <hi>That they diſpoſed themſelves to ſeverall pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts of the Towne, to ſupplie what was wanting in Ammunition, and otherwiſe diſtributing of Money to the Souldiers that ſtood at the Line;</hi> It is an<g ref="char:EOLhyphen"/>ſwered, We heard the Souldiers at ſeverall Poſts complain, that in twen<g ref="char:EOLhyphen"/>ty foure houres they had no reliefe in meat, drinke, or money; and that the Committee very ſeldome appeared at the Workes. Whereas <hi>they at<g ref="char:EOLhyphen"/>tribute the maintining of that breach in the Newarke to Captaine</hi> Hacker <hi>and Captaine</hi> Babbington; We ſay that Captaine <hi>Babbington</hi> was never, du<g ref="char:EOLhyphen"/>ring the Storme, neerer to the breach then the Weſtbridge, which was aſ<g ref="char:EOLhyphen"/>ſigned for his Poſt. And this breach was maintained by Major <hi>Innes;</hi> and after that all the Officers and Souldiers (properly belonging to the Garriſon) had deſerted that place, Major <hi>Innes</hi> with his Troopes repulſed them five ſeverall times. After which repulſes, the Enemie falling on at other Places, Captaine <hi>Hacker</hi> made his eſcape through that Breach, and was taken neer Humberſton; the ſame Captaine <hi>Hacker,</hi> who when Co<g ref="char:EOLhyphen"/>lonell <hi>Rocciter</hi> was engaged with Sir <hi>Marmaduke Langdale,</hi> neere unto Mil<g ref="char:EOLhyphen"/>ton Mowbray, failed to joyne with him, which did extremely prejudice that ſervice. And being then Governour of the Garriſon at Kerby, fled to Leiceſter; firſt ſetting fire on the Barnes and Stables there; according to the information of an honeſt man, who was then at Kerby Garriſon, when the Kings Forces came by Melton. Who ſaith that there were no Scouts ſent out that day from the Garriſon of Kerby Beler. And fur<g ref="char:EOLhyphen"/>ther faith that one Captaine <hi>Gollifon,</hi> comming from Melton, told Cap<g ref="char:EOLhyphen"/>taine <hi>Hacker</hi> that Colonell Roſſiters Forces were Routed, upon which information Captaine <hi>Hacker</hi> Commanded that all his Souldiers, who had the weakeſt Horſes, ſhould with all ſpeed march away to Leiceſter; and thoſe, who had the beſt Horſes, ſhould goe into the Garriſon, and ſet fire on it. The Souldiers obeying his command, ſet fire on a great Barne of eleven bayes of Building; the greateſt p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt of the ſaid Barne having been nevvly made a ſtable to hold 250 Horſes, and ſome Bayes left to lay in Hay. All which were burnt, and about ten or twelve Bayes more, and then the ſaid Captain <hi>Hacker</hi> marched away, leaving behinde h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m provi<g ref="char:EOLhyphen"/>ſions of Victuall, ammunition, and other neceſſaries for the Garriſon; in
+<pb n="4" facs="tcp:123474:4"/>which alſo he left ſixe Priſoners, who ra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> away. Some other Souldi<g ref="char:EOLhyphen"/>ers report that by Captaine <hi>Hackers</hi> command they Carried into the Hall, Hay, Straw, and Firres, to have fired the Houſe. Whereas they write <hi>that Colonell</hi> Gray, <hi>of whoſe Valour they had former experience, was ſore wounded, and led off the place;</hi> It will bee proved that he ſuffered Sir <hi>Barnard Aſhlie</hi> his whole brigade of Foote to ſcale with three laddders, and enter the workes, without diſcharging a Muſquet; and running from his Poaſt, was wounded in the backe, one of his Enemies ſaying, that he would give him the marke of a Coward; and that formerly he decla<g ref="char:EOLhyphen"/>red to us his ignorance, and want of experience to perform the dutie of a Governour. Where they ſay alſo that Captain <hi>Hurſt</hi> was ſlain, it is like to the reſt in their Narration; for he was not ſo much as wounded. Beſides this, it is moſt certain that the Committee were ſo poſſeſt with fear, that they told His Majeſtie they would have delivered the Town at firſt upon the ſummons, had not Sir <hi>Robert Pye,</hi> and Major <hi>Innes</hi> dſſwaded them from it. Sir <hi>Henry Skipwith</hi> likewiſe, and Sir <hi>John Pate</hi> two notorious Delin<g ref="char:EOLhyphen"/>quents, and powerfull with His Majeſtie, declared at Leiceſter, in the pre<g ref="char:EOLhyphen"/>ſence of many honeſt men, that the greateſt motive which drew the King to Leiceſter, was the certain Intelligence, that he had of the weakneſſe of that Committee, and their want of experience in Military affaires. Concern<g ref="char:EOLhyphen"/>ing the fortifying of the Newark, which they ſay was intended by them; But that, upon a Letter from Collonel <hi>Booth</hi> to the Lord <hi>Grey,</hi> the Com<g ref="char:EOLhyphen"/>mittee of both Kingdomes did command the contrary: We will leave it to the judgement of all the World, how great a diſcouragement that had been both to Town and Country, and of what ſmall advantage to the publike. Since it was impoſſible that the Newark could receive the perſons, much leſſe the goods and eſtates of all the well-affected. Inſomuch as that if it had been fortified (which could not be effected to any purpoſe, unleſſe they would reſolve to pull down hundreds of houſes) we conceive that both the P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſons and Eſtates of the aforeſaid well-affected perſons, had been ſubject to as much miſery and plunder, as they have ſince undergone. And for Collonel <hi>Booth,</hi> we are ſo well aſſured of his good intentions, in that diſ<g ref="char:EOLhyphen"/>ſwading Letter (as they ſay) that malice it ſelf can gather nothing of it, but a cordiall deſire to prevent the miſery, that was like to befall that place, both for want of able ſouldiers to manage the Militia, and ſtrength enough to man the Workes. We therefore, as not unwilling that further notice may be taken of his Letter, have cauſed it to be reprinted. Concerning the taxation of the Country, we conceive nothing could breed more diſcon<g ref="char:EOLhyphen"/>tentment, then that inequality, which the Committee uſed in taxing the ſeverall Townes, which Taxations (had they been equally layed according to the proportion of ſome Townes) had amounted to a farre greater ſumme <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen is appointed by the Ordinance of Parliament. And it is verily beſee<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> that, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the moneys collected Weekly been converted to no other uſe,
+<pb n="5" facs="tcp:123474:4"/>then for the ſervice and maintainance of their Gariſons, Leiceſter had been better provided for a Siege, then (as appeares) it now was. And yet notwith<g ref="char:EOLhyphen"/>ſtanding the Committee did, over and above thoſe great Taxes, charge the Country with all kinde of Proviſions for their Gariſons, and with Horſes to mount their men. Where they affirm, <hi>that they receive not any pay;</hi> We are credibly informed that very few, or not one of them but is chargeable with moneys raiſed in the Country for the publike ſervice. And how they have diſpoſed of it, we muſt leave to the Examination of thoſe who are im<g ref="char:EOLhyphen"/>ployed for that purpoſe. This we know, that many of them were Captains, and received great ſummes of money; yet ſeldome or never went out with their Troopes for defence of the Country. Whereby there was an unjuſt and unneceſſarie charge, which might have otherwiſe been employed upon able ſouldiers. Inſtead of which they caſhiered old Officers, and able men, advancing in their places raw ſouldiers, to the great prejudice of the buſi<g ref="char:EOLhyphen"/>neſſe. And whereas they affirm, <hi>that they undertook the Work, when others of greater Eſtates deſerted it,</hi> and juſtifie themſelves in that point through the whole Narration; it is well remembred that Captain <hi>Temple,</hi> late Gover<g ref="char:EOLhyphen"/>nour of Coleotton, when the Lord <hi>Grey</hi> began to fortifie Leiceſter, upon intelligence given of the Enemies advance out of Worceſterſhire towards Aſhby, repaired at Midnight to the Lord <hi>Greys</hi> Chamber, earneſtly per<g ref="char:EOLhyphen"/>ſwading him at that inſtant to remove to Rockingham with his Forces, Canon, and Cariages. And indeed many times ſince hath he expreſſed that fearfull diſpoſition. For in time of danger (pretending buſineſſe) he uſually haſtens to London; witneſſe the laſt journey that he made up thither, upon the approach of the Kings Army into thoſe parts. And for the reſt of thoſe that now ſit in the Committee, not above two or three of them did appear, and joyn in the ſervice with thoſe Gentlemen, that hazarded their lives and fortunes for the Publike at the beginning, and are now out of the Ordi<g ref="char:EOLhyphen"/>nance for the Militia; neither did they appear untill Leiceſter was nigh fortified, and both Town and Country in a good poſture of defence. Whereas they ſay that Sir <hi>Edward Hartop,</hi> Sir <hi>Thomas Hartop,</hi> Sir <hi>Roger Smith, Iohn St. John,</hi> and <hi>Thomas Brudenell</hi> Eſquires, <hi>were but commanded down to ſit as Committees, they would give more ſatisfaction to the Country, and do the Parliament better ſervice, then thoſe that are of leſſe eſtates and eſteem, poſsibly can do;</hi> The Committee well know that all, or moſt of thoſe Gen<g ref="char:EOLhyphen"/>tlemen before mentioned, by reaſon of their age and other infirmities (with<g ref="char:EOLhyphen"/>out prejudice to their health) cannot attend to do ſervice, as otherwiſe they willingly would. And it is moſt evident how earneſtly the Country petitio- for an addition to the Committee, of Gentlemen of known integrity and abilities, who ſuffered both in their Perſons and Eſtates for their affections to the publike; namely <hi>William Quarles, Thomas Beaumont, William Dan<g ref="char:EOLhyphen"/>vers, George Pochin, Thomas Pochin, Thomas Cotton Eſquire, and William Sherman</hi> Gent. with divers others, ſome of vvhich, during the time
+<pb n="6" facs="tcp:123474:5"/>of the Siege, were thought worthy and invited to ſit, and adviſe with the Committee; yet the Committee would not give way to an addition: But did, as much as in them lay, render thoſe Gentlemen odious to the Parliament. It is true that the Lord <hi>Grey</hi> gave a Commiſsion to <hi>Theophilus Grey</hi> Eſquire, then eldeſt Captain of his Lordſhips Regiment (the ſuperiour Of<g ref="char:EOLhyphen"/>ficers of the Gariſon being drawn out upon ſervice) to command in Leice<g ref="char:EOLhyphen"/>ſter for ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me few dayes, when there was no danger of an Enemy. Vpon theſe conſiderations; How much thoſe Gentlemen of the Committee, who have had the power of the Militia in their hands theſe ten moneths laſt paſt, deſerve to be rewarded for their ſervice let the world judge. Nor can we fear that this frivolous Apology of their (which they have printed under the name of a Narration, ſtuffed with apparent and detected falſhoods) ſhould ſo farre prevail with wiſe men, as to acquit them of ſuch hainous eſſences againſt the State<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or much leſſe have power to tranſmit the ble<g ref="char:EOLhyphen"/>miſh from themſelves to their juſt accuſers. Such Apologies, as they im<g ref="char:EOLhyphen"/>ply ſome faults committed, are themſelves ſometimes greater faults, then thoſe wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch they labour to excuſe. Since it is a greater crime purpoſely to deceive a State by miſunderſtanding, then to treſpaſſe againſt it by igno<g ref="char:EOLhyphen"/>rance, or weakneſſe. Howſoever, no fear of prejudice can diſcourage men of Honour, who are aſhamed of nothing but ignoble actions, to averre and maintain a clear truth againſt any perſons, eſpecially where the ſatisfaction of the State, more then the vindication of their own Honours, doth engage them to it.</p>
+            <closer>
+               <signed>JAMES INNES.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Coppie of a Letter ſent from Leiceſter to my Lord <hi>Gray.</hi>
+            </head>
+            <p>BEing arrived at this place, which by reaſon of your publike and private in<g ref="char:EOLhyphen"/>tereſt in it, laies claime to your utmoſt endeavours for the preſervation of it. I ſhall make bould to preſent your Lordſhip with the weake condition it is in, moſt obvious to the unobſerving eye, by all mens account there are not above 200 Souldiers in the Towne, and thoſe as peremptorie againſt diſcipline as their Governours are ignorant of it. I am moſt confident nay durſt hazard my ſelfe and fortune upon it, that 500. reſolute well managed Souldiers, at any time night or day, would make themſelves Maſters of this Towne, which if loſt, will take a<g ref="char:EOLhyphen"/>way all Commerce from all the Northweſt of England; And I can aſſure you its Gods providence alone in keeping it from the Enemies knowledge, and ſuppreſſing their courage, that is this Townes defence, but when we neglect to ſerve God in his Providence by the adhibition of ſecond meanes, it is iuſt with God to leave us to our owne ſtrength which is nothing but weakneſſe. The grand Maſters moſt ſenſible of Danger, and carefull of their owne ſecurity, have all of them got houſes i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a place of this Towne called the Newarke, where they are fortifying themſelves as ſtrong as may be, which will prove as I feare of moſt dangerous conſequence; For I perceive the Townſemen much diſcontented, conceiving themſelves deſtined by the Committee for the Enemies mercy. I aſſure you my Lord, I eſpie diſcontent diſpierſing it ſelf very faſt abroad in this Town, and if your Lordſhips care prevent nor, I expect very ſhortly to hear ill news from this place. Pardon my boldneſſe, ex<g ref="char:EOLhyphen"/>cuſe my haſte, and accept of my profeſſion of being,</p>
+            <closer>
+               <dateline>
+                  <hi>Leiceſter,</hi> 
+                  <date>
+                     <hi>Apr.</hi> 12. 1645.</date>
+               </dateline>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips moſt humble Servant, <hi>GEORGE BOOTH.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
